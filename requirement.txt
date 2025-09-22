@@ -4,3 +4,5 @@ uvicorn
 bs4
 chromadb
 faiss-cpu
+wikipedia
+arxiv
