@@ -10,3 +10,7 @@ Just added this comment to check the sync with rune
 # To deactivate an active environment, use
 #
 #     $ conda deactivate
+
+
+
+new commnet just to check rune
