@@ -1,3 +1,12 @@
 i have added this new file to make sure the github integration works well with this one
 
 Just added this comment to check the sync with rune
+
+
+# To activate this environment, use
+#
+#     $ conda activate D:\ChatBot\ChatBotchatbot-env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate

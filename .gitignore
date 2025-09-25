@@ -36,3 +36,4 @@ Thumbs.db
 # ChromaDB
 chroma_db/
 *.db
+ChatBotchatbot-env/
